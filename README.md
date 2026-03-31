@@ -10,7 +10,7 @@ This project is an audit and exploration of **Git**, the world's most popular di
 
 ## Directory Structure
 ```
-oss-audit-24bai10668/
+oss-audit-24bai10080/
 ├── README.md                           # This file
 ├── script1_system_identity.sh          # Outputs basic Linux OS and user info
 ├── script2_package_inspector.sh        # Checks for Git and other FOSS software
